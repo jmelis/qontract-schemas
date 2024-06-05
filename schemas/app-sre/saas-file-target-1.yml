@@ -116,6 +116,7 @@ properties:
     type: boolean
 required:
 - ref
+- name
 oneOf:
 - required:
   - namespace
